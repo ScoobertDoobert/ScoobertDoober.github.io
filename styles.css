@@ -1,7 +1,15 @@
 img {
-    width: 200px;
+    width: 500px;
 }
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: "Comic Sans MS";
+    border-style: double;
+    border-width: 15px;
+    border-color: lime;
 }
+
+
+
+
+
